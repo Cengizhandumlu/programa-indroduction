@@ -1,8 +1,8 @@
-İnclude <stdio.h>
+include <stdio.h>
 
 int main(){
 
-	printf("merhaba dünya");
+	printf("merhaba dÃ¼nya");
 	
 return 0;
 }
